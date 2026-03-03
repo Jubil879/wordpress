@@ -1,0 +1,27 @@
+/* Alignfull Compatibility */
+body {
+    overflow-x: hidden;
+}
+.entry-content .alignfull {
+    margin-left: calc( -50vw + 50%);
+    margin-right: calc( -50vw + 50%);
+    max-width: 100vw;
+    width: 100vw;
+}
+
+
+
+/*Reset Default Blocks Gap*/
+.wp-site-blocks > * {
+    margin-block-start: 0;
+}
+
+/* Navigation */
+@media screen and (min-width: 600px){
+    .wp-block-navigation ul.wp-block-navigation-submenu li {
+        border-bottom: 1px solid rgba(0,0,0,.15);
+    }
+    .wp-block-navigation ul.wp-block-navigation-submenu li:last-child {
+        border: none;
+    }
+}

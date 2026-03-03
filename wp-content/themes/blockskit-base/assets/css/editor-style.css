@@ -1,0 +1,23 @@
+#ast-block-templates-button-wrap {
+    display: none !important;
+}
+
+/*Reset Default Blocks Gap*/
+body.editor-styles-wrapper .wp-site-blocks > * {
+    margin-block-start: 0;
+}
+
+/*Transparent & Sticky Header [bk-header-transparent] [bk-header-sticky]*/
+.bk-header-transparent,
+.bk-header-sticky {
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+.bk-header-transparent {
+  position: absolute !important;
+}
+.bk-header-sticky {
+  position: fixed !important;
+}

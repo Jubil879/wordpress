@@ -1,0 +1,56 @@
+= 1.1.7 =
+* CF7 plugin recommended.
+
+= 1.1.6 =
+* New custom font size added.
+
+= 1.1.5 =
+* Shadow styles have been added.
+
+= 1.1.4 =
+* Block spacing nullify style has been added to the home template.
+
+= 1.1.3 =
+* Early translation error notification has been resolved.
+
+= 1.1.2 =
+* Contact Form 7 compatibility added.
+* New Twitter logo update in pattern.
+
+= 1.1.1 =
+* Theme info screenshot update.
+
+= 1.1.0 =
+* Footer date warning issue fixed.
+
+= 1.0.9 =
+* Styles file updated.
+
+= 1.0.8 =
+* File require fix for childtheme.
+
+= 1.0.7 =
+* Updated banner spacing.
+
+= 1.0.6 =
+* Style updated.
+
+= 1.0.5 =
+* Style updated.
+
+= 1.0.4 =
+* Additional templates added.
+* WooCommerce compatiblity added.
+* Style updated.
+
+= 1.0.3 =
+* Skip link issue fixed.
+
+= 1.0.2 =
+* Animate.css license updated.
+
+= 1.0.1 =
+* Blog Home Header tag updated.
+
+= 1.0.0 =
+* Initial Release.

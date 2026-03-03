@@ -1,0 +1,149 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "title": "Dark",
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "name": "Primary",
+          "color": "#5733FF",
+          "slug": "primary"
+        },
+        {
+          "name": "Secondary",
+          "color": "#354262",
+          "slug": "secondary"
+        },
+        {
+          "name": "Accent",
+          "color": "#5733FE",
+          "slug": "accent"
+        },
+        {
+          "name": "Accent Text",
+          "color": "#FFFFFE",
+          "slug": "accent-text"
+        },
+        {
+          "name": "Secondary Accent",
+          "color": "#FFFFFC",
+          "slug": "secondary-accent"
+        },
+        {
+          "name": "Secondary Accent Text",
+          "color": "#1D243D",
+          "slug": "secondary-accent-text"
+        },
+        {
+          "name": "Hover",
+          "color": "#4B2ECB",
+          "slug": "hover"
+        },
+        {
+          "name": "Heading",
+          "color": "#FFFFFE",
+          "slug": "heading"
+        },
+        {
+          "name": "Highlight",
+          "color": "#4B5563",
+          "slug": "highlight"
+        },
+        {
+          "name": "Body",
+          "color": "#E5E7EB",
+          "slug": "body"
+        },
+        {
+          "name": "Surface",
+          "color": "#191918",
+          "slug": "surface"
+        },
+        {
+          "name": "Background",
+          "color": "#000001",
+          "slug": "background"
+        },
+        {
+          "name": "Light",
+          "color": "#ebeefc",
+          "slug": "light"
+        },
+        {
+          "name": "Outline",
+          "color": "#4B55634D",
+          "slug": "outline"
+        },
+        {
+          "name": "Neutral",
+          "color": "#9CA3AF",
+          "slug": "neutral"
+        },
+        {
+          "name": "Foreground",
+          "color": "#111827",
+          "slug": "foreground"
+        },
+        {
+          "name": "Transparent",
+          "color": "transparent",
+          "slug": "transparent"
+        },
+        {
+          "name": "Current Color",
+          "color": "currentColor",
+          "slug": "currentColor"
+        },
+        {
+          "name": "Inherit",
+          "color": "inherit",
+          "slug": "inherit"
+        },
+        {
+          "name": "Pure White",
+          "color": "#ffffff",
+          "slug": "pure-white"
+        },
+        {
+          "name": "Pure Black",
+          "color": "#000000",
+          "slug": "pure-black"
+        }
+      ],
+      "gradients": [
+        {
+          "name": "Primary",
+          "slug": "primary",
+          "gradient": "linear-gradient(285deg, #5733FF -1.5%, #354262 100%)"
+        }
+      ],
+      "duotone": [
+        {
+          "name": "Primary",
+          "slug": "primary",
+          "colors": [
+            "#5733FF",
+            "#5733FF"
+          ]
+        },
+        {
+          "name": "Secondary",
+          "slug": "secondary",
+          "colors": [
+            "#354262",
+            "#354262"
+          ]
+        },
+        {
+          "name": "Light",
+          "slug": "light",
+          "colors": [
+            "#ffffff",
+            "#ffffff"
+          ]
+        }
+      ]
+    }
+  }
+}

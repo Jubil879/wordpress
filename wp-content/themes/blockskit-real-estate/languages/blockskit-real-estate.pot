@@ -1,0 +1,768 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Real Estate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-02 07:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.1; wp-6.9; php-7.4.21\n"
+"X-Domain: blockskit-real-estate"
+
+#: patterns/home-properties.php:215
+msgid "$11,000"
+msgstr ""
+
+#: patterns/home-properties.php:127
+msgid "$14,500"
+msgstr ""
+
+#: patterns/home-properties.php:303
+msgid "$2,500"
+msgstr ""
+
+#: patterns/home-features.php:218
+msgid "(+256)55-369-0011"
+msgstr ""
+
+#: patterns/home-properties.php:307
+msgid "/ per month"
+msgstr ""
+
+#: patterns/home-properties.php:131 patterns/home-properties.php:219
+msgid "/ per sq.ft"
+msgstr ""
+
+#: patterns/home-about.php:70
+msgid "1,100+"
+msgstr ""
+
+#: patterns/home-properties.php:118
+msgid "1200 sq.ft"
+msgstr ""
+
+#: patterns/home-about.php:121
+msgid "20+"
+msgstr ""
+
+#: patterns/home-hero-banner.php:90
+msgid "2k+ People listed their properties"
+msgstr ""
+
+#: patterns/home-properties.php:85
+msgid "39581 Rohan Estates, New York"
+msgstr ""
+
+#: patterns/home-about.php:98
+msgid "480+"
+msgstr ""
+
+#: patterns/home-about.php:84
+msgid "5.5K+"
+msgstr ""
+
+#: patterns/home-properties.php:206
+msgid "800 sq.ft"
+msgstr ""
+
+#: patterns/home-properties.php:294
+msgid "950 sq.ft"
+msgstr ""
+
+#: patterns/home-features.php:79 patterns/home-features.php:111
+#: patterns/home-features.php:143 patterns/home-features.php:175
+msgid ""
+"Ad cras ultricies praesent ornare voluptates hic error nostrum pede officia "
+"sed, cumque."
+msgstr ""
+
+#: patterns/home-properties.php:284
+msgid "Bath : 2"
+msgstr ""
+
+#: patterns/home-properties.php:108
+msgid "Bath : 3"
+msgstr ""
+
+#: patterns/home-properties.php:196
+msgid "Bath : 4"
+msgstr ""
+
+#: patterns/home-properties.php:274
+msgid "Bed : 4"
+msgstr ""
+
+#: patterns/home-properties.php:98
+msgid "Bed : 5"
+msgstr ""
+
+#: patterns/home-properties.php:186
+msgid "Bed : 8"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#. Name of the theme
+msgid "Blockskit Real Estate"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Blockskit Real Estate is a modern, versatile FSE WordPress theme designed "
+"for real estate, architecture firm, builders, building, business, companies, "
+"construction, contractors, industry, infrastructure, interior design, "
+"plumbing, real estate agency, renovation, and other real estate websites—no "
+"coding required. With full-site editing, you can easily customize every "
+"aspect of your site, including headers and footers. Featuring multiple "
+"templates, patterns, and style variations, it adapts seamlessly to various "
+"aesthetics and business needs."
+msgstr ""
+
+#. Author of the theme
+msgid "BlockskitDev"
+msgstr ""
+
+#: patterns/template-cart.php:212
+msgid "Browse store"
+msgstr ""
+
+#: patterns/home-features.php:171
+msgid "Buy and Sell Your Property"
+msgstr ""
+
+#: patterns/home-latest-posts.php:48
+msgid "Checkout Helpful Real Estate Articles.."
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent Text"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Body"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Highlight"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Hover"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Neutral"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Outline"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Pure Black"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Pure White"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary Accent"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary Accent Text"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Surface"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "Company"
+msgstr ""
+
+#: patterns/home-features.php:117
+msgid "CONTACT US"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Copyright © 2026 ·"
+msgstr ""
+
+#: patterns/home-properties.php:252
+msgid "Countryside Dorn House"
+msgstr ""
+
+#: patterns/home-properties.php:173
+msgid "Cuba Trinidad City, Havana"
+msgstr ""
+
+#: patterns/home-hero-banner.php:115
+msgid ""
+"Cum aptent nulla tellus primis conubia, cubilia risus pede numquam auctor "
+"pellentesque pede commodo phasellus porttitor ligula, ad, vehicula inventore."
+" Apis mattis minim imperdiet dignissim aspernatur"
+msgstr ""
+
+#: patterns/home-about.php:58
+msgid "Discover Our Luxury Property With Full Amenities.."
+msgstr ""
+
+#: patterns/home-hero-banner.php:56
+msgid "Discover Your Perfect Property For You !!"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Secondary"
+msgstr ""
+
+#: patterns/home-properties.php:137 patterns/home-properties.php:225
+#: patterns/home-properties.php:313 patterns/home-hero-banner.php:96
+msgid "ENQUIRY NOW"
+msgstr ""
+
+#: patterns/home-about.php:130
+msgid "EXPERINECE"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXX Large Ext"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr ""
+
+#: patterns/home-properties.php:235
+msgid "For Rent"
+msgstr ""
+
+#: patterns/home-properties.php:59 patterns/home-properties.php:147
+msgid "For Sale"
+msgstr ""
+
+#: patterns/home-features.php:214
+msgid "FREE CONSULTING.."
+msgstr ""
+
+#: patterns/home-about.php:112 patterns/home-features.php:149
+#: patterns/header.php:34 patterns/home-hero-banner.php:100
+msgid "GET A QUOTES"
+msgstr ""
+
+#: patterns/home-features.php:197
+msgid "GET FREE QUOTES"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr ""
+
+#: patterns/home-features.php:181
+msgid "HIRE US NOW"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://blockskit.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://blockskit.com/blockskit-real-estate/"
+msgstr ""
+
+#: patterns/home-about.php:39
+msgid "INTRODUCTION OF US"
+msgstr ""
+
+#: patterns/home-latest-posts.php:29
+msgid "LATEST NEWS"
+msgstr ""
+
+#: patterns/home-about.php:108
+msgid "LEARN MORE"
+msgstr ""
+
+#: patterns/home-properties.php:76
+msgid "Modern Beach House"
+msgstr ""
+
+#: patterns/template-cart.php:220
+msgid "New in store"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid ""
+"Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat "
+"lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/template-product-search-results.php:48
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/home-features.php:202
+msgid "OR"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/home-properties.php:46
+msgid "Our Feature Properties"
+msgstr ""
+
+#: patterns/home-about.php:2
+msgctxt "Pattern title"
+msgid "About"
+msgstr ""
+
+#: patterns/home-features.php:2
+msgctxt "Pattern title"
+msgid "Features"
+msgstr ""
+
+#: patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/header.php:2
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header-home.php:2
+msgctxt "Pattern title"
+msgid "Header Home"
+msgstr ""
+
+#: patterns/home-hero-banner.php:2
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr ""
+
+#: patterns/home.php:2
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/home-latest-posts.php:2
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/home-properties.php:2
+msgctxt "Pattern title"
+msgid "Properties"
+msgstr ""
+
+#: patterns/template-404.php:2
+msgctxt "Pattern title"
+msgid "Template 404"
+msgstr ""
+
+#: patterns/template-archive.php:2
+msgctxt "Pattern title"
+msgid "Template Archive"
+msgstr ""
+
+#: patterns/template-archive-product.php:2
+msgctxt "Pattern title"
+msgid "Template Archive Product"
+msgstr ""
+
+#: patterns/template-blog-listing.php:2
+msgctxt "Pattern title"
+msgid "Template Blog Listing"
+msgstr ""
+
+#: patterns/template-cart.php:2
+msgctxt "Pattern title"
+msgid "Template Cart"
+msgstr ""
+
+#: patterns/template-checkout.php:2
+msgctxt "Pattern title"
+msgid "Template Checkout"
+msgstr ""
+
+#: patterns/template-full-width.php:2
+msgctxt "Pattern title"
+msgid "Template Full Width"
+msgstr ""
+
+#: patterns/template-index.php:2
+msgctxt "Pattern title"
+msgid "Template Index"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:2
+msgctxt "Pattern title"
+msgid "Template Order Confirmation"
+msgstr ""
+
+#: patterns/template-page.php:2
+msgctxt "Pattern title"
+msgid "Template Page"
+msgstr ""
+
+#: patterns/template-page-no-gap.php:2
+msgctxt "Pattern title"
+msgid "Template Page No Gap"
+msgstr ""
+
+#: patterns/template-page-no-title.php:2
+msgctxt "Pattern title"
+msgid "Template Page No Title"
+msgstr ""
+
+#: patterns/template-product-search-results.php:2
+msgctxt "Pattern title"
+msgid "Template Product Search Results"
+msgstr ""
+
+#: patterns/template-search.php:2
+msgctxt "Pattern title"
+msgid "Template Search"
+msgstr ""
+
+#: patterns/template-single.php:2
+msgctxt "Pattern title"
+msgid "Template Single"
+msgstr ""
+
+#: patterns/template-single-product.php:2
+msgctxt "Pattern title"
+msgid "Template Single Product"
+msgstr ""
+
+#: patterns/home-about.php:63
+msgid ""
+"Perspiciatis mollis molestie temporibus fugit atque facilisis, tenetur. "
+"Porttitor irure magnam quasi, cupiditate voluptatibus praesentium. Primis "
+"dolor arcu laudantium. Occaecat rhoncus fugiat mollit? Voluptas netus "
+"consequat, expli fringilla potenti."
+msgstr ""
+
+#: patterns/home-features.php:59 patterns/home-latest-posts.php:59
+msgid ""
+"Perspiciatis mollis molestie temporibus fugit atque facilisis, tenetur? "
+"Porttitor irure magnam quasi, cupiditate voluptatibus praesentium."
+msgstr ""
+
+#: patterns/home-properties.php:27
+msgid "POPULAR PROPERTIES"
+msgstr ""
+
+#: patterns/home-properties.php:50
+msgid "Porttitor irure magnam quasi, cupiditate voluptatibus possimus platea."
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Products"
+msgstr ""
+
+#: patterns/home-about.php:102
+msgid "Properties Sold Till Date"
+msgstr ""
+
+#: patterns/home-hero-banner.php:37
+msgid "REAL ESTATE BUSINESS"
+msgstr ""
+
+#: patterns/template-single-product.php:57
+msgid "Related products"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Resources"
+msgstr ""
+
+#: patterns/home-about.php:88
+msgid "Satisfied Customers"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Bold"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Soft"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-single-product.php:15
+msgid "Single Product"
+msgstr ""
+
+#: patterns/home-properties.php:164
+msgid "Sky Commercial House"
+msgstr ""
+
+#: patterns/template-search.php:50
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "XX Small"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Support"
+msgstr ""
+
+#: patterns/home-features.php:59
+msgid "test"
+msgstr ""
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgstr ""
+
+#: patterns/template-404.php:23
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/home-features.php:139
+msgid "Transparency In Dealing"
+msgstr ""
+
+#: patterns/home-features.php:107
+msgid "Trusted  Expert Guidance"
+msgstr ""
+
+#: patterns/home-hero-banner.php:111
+msgid ""
+"Venenatis fuga voluptates sequi accusamus natoque, labore, adipisicing atque "
+"ipsa. Suspendisse ex, id laborum varius."
+msgstr ""
+
+#: patterns/home-about.php:74
+msgid "Verified Properties"
+msgstr ""
+
+#: patterns/home-properties.php:261
+msgid "Vermont Colonial, San Francisco"
+msgstr ""
+
+#: patterns/home-properties.php:323
+msgid "VIEW ALL PROPERTIES"
+msgstr ""
+
+#: patterns/home-features.php:85
+msgid "VIEW PROPERTIES"
+msgstr ""
+
+#: patterns/home-features.php:48
+msgid "What Makes Us The Preferred Choice.."
+msgstr ""
+
+#: patterns/home-features.php:29
+msgid "WHY CHOOSE US"
+msgstr ""
+
+#: patterns/home-features.php:75
+msgid "Wider Range of Best Properties"
+msgstr ""
+
+#: patterns/home-about.php:126
+msgid "YEARS OF"
+msgstr ""
+
+#: patterns/template-cart.php:26 patterns/template-cart.php:89
+#: patterns/template-cart.php:152
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:208
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/footer.php:114
+msgid "· All rights reserved"
+msgstr ""

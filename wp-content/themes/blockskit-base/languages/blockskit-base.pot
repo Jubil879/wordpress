@@ -1,0 +1,751 @@
+# Copyright (C) 2024 BlockskitDev
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Base 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-base\n"
+"POT-Creation-Date: 2024-01-29 05:45:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/core/block-patterns.php:17
+msgid "Blockskit Base Patterns"
+msgstr ""
+
+#: inc/core/block-patterns.php:18
+msgid "Home"
+msgstr ""
+
+#: inc/core/block-patterns.php:19
+msgid "Services"
+msgstr ""
+
+#: inc/core/block-patterns.php:20
+msgid "Clients"
+msgstr ""
+
+#: inc/core/block-patterns.php:21
+msgid "Pricing"
+msgstr ""
+
+#: inc/core/block-patterns.php:22
+msgid "Call to Action"
+msgstr ""
+
+#: inc/core/block-styles.php:25 inc/core/block-styles.php:33
+#: inc/core/block-styles.php:55 inc/core/block-styles.php:76
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/core/block-styles.php:40 inc/core/block-styles.php:62
+#: inc/core/block-styles.php:83
+msgid "Box Shadow Medium"
+msgstr ""
+
+#: inc/core/block-styles.php:47 inc/core/block-styles.php:90
+msgid "Box Shadow Large"
+msgstr ""
+
+#: inc/core/block-styles.php:69
+msgid "Box Shadow Larger"
+msgstr ""
+
+#: inc/core/block-styles.php:97 inc/core/block-styles.php:104
+#: inc/core/block-styles.php:112 inc/core/block-styles.php:120
+msgid "Box Shadow on Hover"
+msgstr ""
+
+#: inc/core/block-styles.php:129
+msgid "Secondary"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:17
+msgid "Processing..."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:56
+msgid "Essential plugins are added successfully. You may dismiss this notice now."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58
+msgid "Welcome! Thank you for choosing %1$s."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58
+msgid "By clicking \"Get Started,\" you will install and activate Blockskit Import & Advanced Import plugins to prepare your demo import."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58 inc/theme-info/theme-info.php:909
+msgid "Get started with %s"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:114
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:192
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:41
+msgid " Info"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:42
+msgid " Theme"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:295 inc/theme-info/theme-info.php:898
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:296
+msgid "Essential plugins are added successfully."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:505 inc/theme-info/theme-info.php:636
+msgid "Install"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:510 inc/theme-info/theme-info.php:641
+msgid "Activate"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:516 inc/theme-info/theme-info.php:647
+msgid "Deactivate"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:536
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:537
+msgid "Show All Recommended Actions"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:702
+msgid "Download"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:705
+msgid "Live Preview"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:777
+msgid "Theme Features"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:778
+msgid "Free"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:779
+msgid "Pro (Premium)"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:878
+msgid "Welcome to %s - "
+msgstr ""
+
+#: inc/theme-info/theme-info.php:881
+msgid "%s is now installed and ready to use. We hope the following information will help and you enjoy using it!"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:888
+msgid "Theme Info"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:892
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:899
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:900
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:901
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:907 patterns/call-to-action.php:23
+#: patterns/header-minimal.php:25 patterns/header.php:29
+#: patterns/hero-banner.php:36
+msgid "Get Started"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:908
+msgid "By clicking \"Get Started,\" you will install and activate essential plugins to prepare your demo import."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:916
+msgid "Pre-built Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:917
+msgid "We recommend utilizing our collection of pre-designed starter site templates as an efficient and convenient way to begin your project."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:918
+msgid "Browse Demos"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:924 inc/theme-info/theme-info.php:926
+msgid "Import Demo"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:925
+msgid "The quick demo import setup will help you configure your new website like theme demo."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:932
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:933
+msgid "We kindly request that you refer to the theme documentation for additional guidance on how to utilize its features."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:934
+msgid "View Documentation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:940
+msgid "Love Our Product?"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:941
+msgid "We would greatly appreciate your motivation through a 5-star rating on our profile."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:942
+msgid "Rate Us"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:948
+msgid "Have Question? Ask Us, Now!"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:949
+msgid "We are committed to resolving any issues that may arise to ensure a seamless experience while using our theme."
+msgstr ""
+
+#: inc/theme-info/theme-info.php:950
+msgid "Get Support"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:965
+msgid "Access to All Starter Sites"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:966 inc/theme-info/theme-info.php:971
+#: inc/theme-info/theme-info.php:976 inc/theme-info/theme-info.php:981
+#: inc/theme-info/theme-info.php:986 inc/theme-info/theme-info.php:991
+#: inc/theme-info/theme-info.php:996
+msgid "no"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:967 inc/theme-info/theme-info.php:972
+#: inc/theme-info/theme-info.php:977 inc/theme-info/theme-info.php:982
+#: inc/theme-info/theme-info.php:987 inc/theme-info/theme-info.php:992
+#: inc/theme-info/theme-info.php:997 inc/theme-info/theme-info.php:1001
+#: inc/theme-info/theme-info.php:1002 inc/theme-info/theme-info.php:1006
+#: inc/theme-info/theme-info.php:1007 inc/theme-info/theme-info.php:1011
+#: inc/theme-info/theme-info.php:1012 inc/theme-info/theme-info.php:1016
+#: inc/theme-info/theme-info.php:1017 inc/theme-info/theme-info.php:1021
+#: inc/theme-info/theme-info.php:1022 inc/theme-info/theme-info.php:1026
+#: inc/theme-info/theme-info.php:1027 inc/theme-info/theme-info.php:1031
+#: inc/theme-info/theme-info.php:1032 inc/theme-info/theme-info.php:1036
+#: inc/theme-info/theme-info.php:1037 inc/theme-info/theme-info.php:1041
+#: inc/theme-info/theme-info.php:1042 inc/theme-info/theme-info.php:1046
+#: inc/theme-info/theme-info.php:1047 inc/theme-info/theme-info.php:1051
+#: inc/theme-info/theme-info.php:1052 inc/theme-info/theme-info.php:1056
+#: inc/theme-info/theme-info.php:1057 inc/theme-info/theme-info.php:1061
+#: inc/theme-info/theme-info.php:1062 inc/theme-info/theme-info.php:1066
+#: inc/theme-info/theme-info.php:1067
+msgid "yes"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:970
+msgid "Access to All Templates & Patterns"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:975
+msgid "Work with the Page Builders"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:980
+msgid "Creative & Unique Blocks"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:985
+msgid "Elementor Ready"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:990
+msgid "Priority Updates"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:995
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1000
+msgid "Full Site Editing"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1005
+msgid "Customize Everything"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1010
+msgid "Lighting Fast"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1015
+msgid "One-click Demo Installer"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1020
+msgid "Fully Responsive"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1025
+msgid "Clean & Optimized Code"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1030
+msgid "Multiple Site Styles"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1035
+msgid "Global Settings"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1040
+msgid "CSS Animation"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1045
+msgid "Gutenberg Ready"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1050
+msgid "eCommerce Ready"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1055
+msgid "SEO Optimized"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1060
+msgid "Multilingual Compatibility"
+msgstr ""
+
+#: inc/theme-info/theme-info.php:1065
+msgid "RTL/LTR Language Support"
+msgstr ""
+
+#: patterns/call-to-action.php:14
+msgid "More than 12,000+ happy clients trust us !"
+msgstr ""
+
+#: patterns/call-to-action.php:18
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metus rem, morbi ac."
+msgstr ""
+
+#: patterns/call-to-action.php:27
+msgid "Hire Us Now"
+msgstr ""
+
+#: patterns/call-to-action.php:38
+msgid "33K+"
+msgstr ""
+
+#: patterns/call-to-action.php:42
+msgid "Active users around the world"
+msgstr ""
+
+#: patterns/call-to-action.php:52
+msgid "25+"
+msgstr ""
+
+#: patterns/call-to-action.php:56
+msgid "Years of best experiences"
+msgstr ""
+
+#: patterns/call-to-action.php:68
+msgid "18+"
+msgstr ""
+
+#: patterns/call-to-action.php:72
+msgid "Best award achievement"
+msgstr ""
+
+#: patterns/call-to-action.php:82
+msgid "80k+"
+msgstr ""
+
+#: patterns/call-to-action.php:86
+msgid "Satisfied happy customers"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:23
+#: patterns/footer-minimal-left-menu.php:15
+#: patterns/footer-minimal-right-menu.php:37
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:29
+msgid "Knowledge Base"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:35
+#: patterns/footer-minimal-left-menu.php:21
+#: patterns/footer-minimal-right-menu.php:43 patterns/footer.php:89
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:41
+#: patterns/footer-minimal-left-menu.php:27
+#: patterns/footer-minimal-right-menu.php:49
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:65
+#: patterns/footer-minimal-left-menu.php:59
+#: patterns/footer-minimal-right-menu.php:59
+msgid "Copyright © %d ·"
+msgstr ""
+
+#: patterns/footer-minimal-center-menu.php:71
+#: patterns/footer-minimal-left-menu.php:65
+#: patterns/footer-minimal-right-menu.php:65 patterns/footer.php:114
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "© %d ·"
+msgstr ""
+
+#: patterns/header-top-info.php:19
+msgid "+1987 123456"
+msgstr ""
+
+#: patterns/header-top-info.php:23
+msgid "info@domain.com"
+msgstr ""
+
+#: patterns/header-top-info.php:27
+msgid "Rock Street, San Francisco"
+msgstr ""
+
+#: patterns/hero-banner.php:23
+msgid "Create&nbsp;workspace&nbsp;&amp; make life easier"
+msgstr ""
+
+#: patterns/hero-banner.php:27
+msgid "Dignis esse fugit, natus pharetra, tempus metus soluta. Perferendis, laboriosam purusin, autem, iaculis, officiis hac saepe bibendum."
+msgstr ""
+
+#: patterns/hero-banner.php:32
+msgid "Discover More"
+msgstr ""
+
+#: patterns/post-grid.php:12
+msgid "Latest from the blog"
+msgstr ""
+
+#: patterns/post-grid.php:16 patterns/pricing.php:17
+#: patterns/testimonial.php:25
+msgid "Elementum quia fugit cum euismod, varius hymenaeos."
+msgstr ""
+
+#: patterns/pricing.php:13
+msgid "Checkout pricing table"
+msgstr ""
+
+#: patterns/pricing.php:27
+msgid "BASIC"
+msgstr ""
+
+#: patterns/pricing.php:31
+msgid "$100"
+msgstr ""
+
+#: patterns/pricing.php:35 patterns/pricing.php:83 patterns/pricing.php:131
+msgid "Minim recusandae, volutpat magna, class, adipiscing, consec."
+msgstr ""
+
+#: patterns/pricing.php:40 patterns/pricing.php:88 patterns/pricing.php:136
+msgid "Choose Plans"
+msgstr ""
+
+#: patterns/pricing.php:47 patterns/pricing.php:95 patterns/pricing.php:143
+msgid "Conubia fuga irure ab primis."
+msgstr ""
+
+#: patterns/pricing.php:51 patterns/pricing.php:55 patterns/pricing.php:103
+#: patterns/pricing.php:111 patterns/pricing.php:147
+msgid "Sem nam neque similique lects."
+msgstr ""
+
+#: patterns/pricing.php:59 patterns/pricing.php:159
+msgid "Turpis nostrud congue sem."
+msgstr ""
+
+#: patterns/pricing.php:63 patterns/pricing.php:99 patterns/pricing.php:155
+msgid "Elit officiis temporibus nibh."
+msgstr ""
+
+#: patterns/pricing.php:75
+msgid "STANDARD"
+msgstr ""
+
+#: patterns/pricing.php:79
+msgid "$250"
+msgstr ""
+
+#: patterns/pricing.php:107
+msgid "Ipsum natus veniam occaecat."
+msgstr ""
+
+#: patterns/pricing.php:123
+msgid "PREMIUM"
+msgstr ""
+
+#: patterns/pricing.php:127
+msgid "$180"
+msgstr ""
+
+#: patterns/pricing.php:151
+msgid "Imperdiet accumsan convallis."
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr ""
+
+#: patterns/sidebar-shop.php:12
+msgid "Product Search"
+msgstr ""
+
+#: patterns/sidebar-shop.php:20
+msgid "Product Categories"
+msgstr ""
+
+#: patterns/sidebar-shop.php:29
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/sidebar-shop.php:40
+msgid "Recent Products"
+msgstr ""
+
+#: patterns/template-404.php:24
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-cart.php:27 patterns/template-cart.php:90
+#: patterns/template-cart.php:153
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:209
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/template-cart.php:213
+msgid "Browse store"
+msgstr ""
+
+#: patterns/template-cart.php:221
+msgid "New in store"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#: patterns/template-product-search-results.php:49
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/template-search.php:51
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/template-single-product.php:58
+msgid "Related products"
+msgstr ""
+
+#: patterns/testimonial.php:21
+msgid "Hear from our happy clients"
+msgstr ""
+
+#: patterns/testimonial.php:36
+msgid "More Review"
+msgstr ""
+
+#: patterns/testimonial.php:51
+msgid "\"Architecto autem facilis conse quuntur rerum nemo! Torquent non, nostrum quis vestibulum magnis? Quos praesentium netus. Gravida, eros, ridiculus dolor purus eveniet magnam vero.\""
+msgstr ""
+
+#: patterns/testimonial.php:59
+msgid "Steve Sampson"
+msgstr ""
+
+#: patterns/testimonial.php:63
+msgid "SENIOR DESIGNER"
+msgstr ""
+
+#: patterns/testimonial.php:77
+msgid "\"Architecto autem facilis conse quuntur rerum nemo! Torquent non, nostrum quis vestibulum impedit tempor.\""
+msgstr ""
+
+#: patterns/testimonial.php:85
+msgid "Miley Johenson"
+msgstr ""
+
+#: patterns/testimonial.php:89
+msgid "SENIOR ADVISOR"
+msgstr ""
+
+#: patterns/three-columns-featured.php:27
+msgid "User friendly"
+msgstr ""
+
+#: patterns/three-columns-featured.php:31
+#: patterns/three-columns-featured.php:47
+#: patterns/three-columns-featured.php:63
+msgid "Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque."
+msgstr ""
+
+#: patterns/three-columns-featured.php:43
+msgid "Collaboration &amp; support"
+msgstr ""
+
+#: patterns/three-columns-featured.php:59
+msgid "Project management"
+msgstr ""
+
+#: patterns/three-columns-featured.php:77
+msgid "Digital strategy"
+msgstr ""
+
+#: patterns/three-columns-featured.php:81
+#: patterns/three-columns-featured.php:97
+#: patterns/three-columns-featured.php:113
+msgid "Dui vitae animi per dis reiciendis. Ab gestas commodo ipsam busipum elementum, impedit int."
+msgstr ""
+
+#: patterns/three-columns-featured.php:93
+msgid "Reasonable services"
+msgstr ""
+
+#: patterns/three-columns-featured.php:109
+msgid "Globalization method"
+msgstr ""
+
+#: patterns/two-columns-featured.php:24
+msgid "Beautiful website design with modern UI / UX"
+msgstr ""
+
+#: patterns/two-columns-featured.php:28
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metuc."
+msgstr ""
+
+#: patterns/two-columns-featured.php:33 patterns/two-columns-featured.php:53
+#: patterns/two-columns-featured.php:85
+msgid "Read More"
+msgstr ""
+
+#: patterns/two-columns-featured.php:44
+msgid "Empowering your digital marketing strategy"
+msgstr ""
+
+#: patterns/two-columns-featured.php:48
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metus."
+msgstr ""
+
+#: patterns/two-columns-featured.php:76
+msgid "Take your brand to next level design concept."
+msgstr ""
+
+#: patterns/two-columns-featured.php:80
+msgid "Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metus rem, morbi ac. Quaerat cupidatat minim, pellentesque."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Blockskit Base"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blockskit.com/blockskit-base/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blockskit Base is a modern and versatile WordPress theme designed for various types of websites including blogs, small businesses, startups, agencies, firms, e-commerce shops, personal portfolio sites, and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlockskitDev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blockskit.com"
+msgstr ""
